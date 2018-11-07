@@ -1,2 +1,2 @@
-# shell-scripting
-scratch shell scripting
+# shell-scripting-scratch
+scratch shell scripting I'll be doing while I learn.
